@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kira job3</string>
+    <string name="title_activity_maps06">MapsActivity_06</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

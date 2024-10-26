@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231863011993",
+    "project_id": "kira-job3",
+    "storage_bucket": "kira-job3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231863011993:android:fe0446ec7830ddf0d28608",
+        "android_client_info": {
+          "package_name": "com.example.kirajob3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk4xTlUONRC_j7GCDw-9BV3j5HDqng168"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
